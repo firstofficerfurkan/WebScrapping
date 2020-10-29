@@ -35,3 +35,8 @@ for mov in movieObjectList:
 
 for val in ratingDict:
     print(val,":",ratingDict.get(val))
+
+
+def furkan2func():
+	print("furkan2's func")
+
