@@ -39,6 +39,14 @@ for val in ratingDict:
 
 def furkan2func():
 	print("furkan2's func")
+	print("furkan2's func")
+	print("furkan2's func")
+	print("furkan2's func")
+	print("furkan2's func")
+	print("furkan2's func")
+	print("furkan2's func")
+	print("furkan2's func")
+
 def newfunc():
 	print("furkan1 added a new function")
 
