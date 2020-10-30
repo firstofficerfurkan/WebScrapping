@@ -35,20 +35,3 @@ for mov in movieObjectList:
 
 for val in ratingDict:
     print(val,":",ratingDict.get(val))
-
-
-def furkan2func():
-	print("furkan2's func")
-	print("furkan2's func")
-	print("furkan2's func")
-	print("furkan2's func")
-	print("furkan2's func")
-	print("furkan2's func")
-	print("furkan2's func")
-	print("furkan2's func")
-
-def newfunc():
-	print("furkan1 added a new function")
-	print("furkan2's fadsfadsfasunc")
-	print("furkan2's funcasdf")
-	print("furkan2's fsfasdfamsdfkasunc")
